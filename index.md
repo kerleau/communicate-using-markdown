@@ -3,9 +3,9 @@
 ###### header 6 Last header size type
 
 ## List
-- a
-- b
-- c
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ## Add Code 
 
