@@ -6,3 +6,7 @@
 - a
 - b
 - c
+
+## Add image , Taktocat , Thai style 
+
+![Image of Yaktocat looks from Thailand ](https://octodex.github.com/images/yaktocat.png)
